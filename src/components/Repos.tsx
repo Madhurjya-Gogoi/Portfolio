@@ -1,11 +1,10 @@
 import { useReveal } from '../hooks/useReveal'
 
-// TODO: replace with your actual GitHub username and repo list.
-const GITHUB_USERNAME = 'your-github-username'
+const GITHUB_USERNAME = 'Madhurjya-Gogoi'
 
 const REPOS = [
-  { name: 'calculator-app', description: 'A small calculator built to practice component state and UI logic.' },
-  { name: 'redux-toolkit-demo', description: 'A demo app wiring up Redux Toolkit for predictable state management.' },
+  { name: 'simple-calculator-app', description: 'A small calculator built to practice component state and UI logic.' },
+  { name: 'Redux-toolkit-with-typescript', description: 'A demo app wiring up Redux Toolkit for predictable state management.' },
 ]
 
 export default function Repos() {

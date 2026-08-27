@@ -1,9 +1,9 @@
 import { useReveal } from '../hooks/useReveal'
 
 // TODO: replace with your real contact details.
-const EMAIL = 'your.email@example.com'
-const LINKEDIN = 'https://linkedin.com/in/your-profile'
-const GITHUB = 'https://github.com/your-github-username'
+const EMAIL = 'mousamgogoi630@gmail.com'
+const LINKEDIN = 'https://www.linkedin.com/in/mousam-gogoi-guwahati/'
+const GITHUB = 'https://github.com/Madhurjya-Gogoi'
 
 export default function Contact() {
   const { ref, visible } = useReveal<HTMLDivElement>()
