@@ -4,13 +4,6 @@ Built with Vite + React + TypeScript + Tailwind CSS v4. Compiles to static
 files, so it deploys anywhere (Vercel, Netlify, Cloudflare Pages, GitHub
 Pages).
 
-## Before you deploy
-
-A few placeholders need your real info — search for `TODO` or check:
-
-- `src/components/Repos.tsx` — your GitHub username and real side-project repos
-- `src/components/Contact.tsx` — your email, LinkedIn, and GitHub URLs
-
 ## Run locally
 
 ```bash
